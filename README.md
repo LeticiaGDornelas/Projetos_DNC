@@ -1,5 +1,6 @@
 # Projetos_DNC
 Projetos desenvolvidos durante a formação em Ciência de dados pela Escola DNC.
+
 Desafio 1: Introdução a modelo de regressão linear.
 Aplicação de conhecimentos de Excel e de Power BI para construir um modelo de regressão linear capaz de prever os resultados de faturamento de um e-commerce.
 
