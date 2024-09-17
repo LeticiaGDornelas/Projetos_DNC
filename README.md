@@ -12,3 +12,6 @@ Construção de um dashboard utilizando SQL em busca de definir os próximos pas
 
 Desafio 4: Análise de dados com python.
 Desenvolvimento de um modelo de regressão em python.
+
+Desafio 5: Limpeza e organização de dados com python.
+Preparação de um dataset para modelagem de dados em python.
