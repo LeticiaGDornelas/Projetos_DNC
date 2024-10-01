@@ -15,3 +15,6 @@ Desenvolvimento de um modelo de regressão em python.
 
 Desafio 5: Limpeza e organização de dados com python.
 Preparação de um dataset para modelagem de dados em python.
+
+Desafio 6: Classificação em Machine Learning.
+Construrção de um algoritimo de classificação com base em previsibilidade de churn em usuários.
