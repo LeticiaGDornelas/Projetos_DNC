@@ -17,4 +17,9 @@ Desafio 5: Limpeza e organização de dados com python.
 Preparação de um dataset para modelagem de dados em python.
 
 Desafio 6: Classificação em Machine Learning.
-Construrção de um algoritimo de classificação com base em previsibilidade de churn em usuários.
+Construção de um algoritimo de classificação com base em previsibilidade de churn em usuários.
+
+Desafio 7: Clausterização em Machine Learning.
+Criação de um modelo de Clautering para criar um sistema de agrurpamento de perfis de clientes para um e-commerce.
+
+Concluído!
